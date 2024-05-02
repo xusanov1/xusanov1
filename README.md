@@ -1,4 +1,4 @@
-<img align="top" alt="gif" width="100%" src = "https://www.moneyinfo.com/resource/Job%20-%20Front%20End%20Developer%20V2.gif">
+<img align="top" alt="gif" width="100%" src = "https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM">
 
 
 ## Hey 👋, I'm Izzatillo!
