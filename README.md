@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moneyinfo.com%2FFrontEndDeveloper%2F&psig=AOvVaw17iksLbb0moTyWA2Sa_0s4&ust=1714763342068000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD0g7TV74UDFQAAAAAdAAAAABAE![Uploading image.png…]()
+<img align="top" alt="gif" width="100%" src = "https://www.moneyinfo.com/resource/Job%20-%20Front%20End%20Developer%20V2.gif">
 
 
 ## Hey 👋, I'm Izzatillo!
