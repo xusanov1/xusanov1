@@ -1,4 +1,5 @@
-### Hi there 👋
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moneyinfo.com%2FFrontEndDeveloper%2F&psig=AOvVaw17iksLbb0moTyWA2Sa_0s4&ust=1714763342068000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD0g7TV74UDFQAAAAAdAAAAABAE![Uploading image.png…]()
+
 
 ## Hey 👋, I'm Izzatillo!
 <a href='https://www.linkedin.com/in/izzatillo-khusanov-851216302/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
