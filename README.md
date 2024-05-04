@@ -27,7 +27,7 @@ I am a versatilist and easily adapt to different Web Developer 🌐 depending on
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="" target="_blank"><img align="left" alt="bootstrap" height="42px" src="https://assets.codepen.io/t-954/internal/avatars/teams/default.png?fit=crop&format=auto&height=512&version=1653252283&width=512"></a>
-<a href="" target="_blank"><img align="left" alt="bootstrap" height="32px" src="https://asset.brandfetch.io/idNWmZAD5Q/idLVvs7r2R.jpeg"></a>
+<a href="" target="_blank"><img align="left" alt="bootstrap" height="32px" src="https://w7.pngwing.com/pngs/771/978/png-transparent-tailwind-css-css-framework-customizable-low-level-tailwind-logo-3d-icon.png"></a>
 
 <br>
 
