@@ -14,8 +14,8 @@ I am a versatilist and easily adapt to different Web Developer 🌐 depending on
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🔭 &nbsp; I’m currently working on **Javascript examples**
+- 🌱 &nbsp; I’m currently learning Javascript; 
 
 <br>
 
