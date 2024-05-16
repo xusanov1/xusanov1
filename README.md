@@ -1,4 +1,4 @@
-<img align="top" alt="gif" width="100%" src = "https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM">
+<img align="top" alt="gif" width="100%" src = "[https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM](https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif)">
 
 
 ## Hey 👋, I'm Izzatillo!
